@@ -1,6 +1,6 @@
 # Project go-log-on
 
-One Paragraph of project description goes here
+This is my first serious project in go that is intended to show my progress as I learn go. This may also include my experiences with my experiences with other technology or life more broadly.
 
 ## Getting Started
 
